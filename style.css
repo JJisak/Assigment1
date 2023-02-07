@@ -1,0 +1,46 @@
+body {
+    background: rgb(73,18,246);
+    background: linear-gradient(90deg, rgba(73,18,246,1) 0%, rgba(9,9,121,1) 100%);
+color: white;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.section1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.section2{
+    padding-top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+.free{
+    border-radius: 30%;
+    padding: 20px;
+    width: auto;
+    background: orange;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.middle{
+    text-align: center;
+    padding-top: 50px;
+}
