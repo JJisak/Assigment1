@@ -53,9 +53,9 @@ body {
 }
 
 .free {
-    border-radius: 30%;
-    padding: 20px;
+    border-radius: 30px;
     width: auto;
+    padding: 30px;
     background: orange;
     color: white;
     font-weight: bold;
